@@ -1,9 +1,6 @@
 ### Hi there, I'm Sam McAulay! 👋
 
 **Game Developer & Unity Enthusiast based in Ireland** 🇮🇪
-
-I build immersive virtual worlds, horror puzzle games, and automation tools. I love participating in Game Jams and Hackathons to push the limits of interactive storytelling.
-
 ---
 
 #### 🛠️ Tech Stack
