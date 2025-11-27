@@ -1,12 +1,12 @@
 ### Hello, I'm Sam! 👋
 
-**Game Dev & Automation Fanatic from Ireland** 🇮🇪
+**Aspiring Game Dev, VR & AR Developer, from Ireland**
 
 I build weird worlds, break game engines, and automate the boring stuff. Whether it's procedural horror, multiplayer chaos, or full-stack C++ apps, I'm always making something cool.
 
 ---
 
-#### ⚡ My Toolkit
+#### ⚡ Tech Stack
 
 <div align="center">
 
