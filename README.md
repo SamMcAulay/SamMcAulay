@@ -1,12 +1,8 @@
-### Hello, I'm Sam! 👋
+### Hello, I'm Sam! 
 
-**Aspiring Game Dev, VR & AR Developer, from Ireland**
+** Aspiring Virtual Reality Developer, and game dev hobbyist. **      
 
-I build weird worlds, break game engines, and automate the boring stuff. Whether it's procedural horror, multiplayer chaos, or full-stack C++ apps, I'm always making something cool.
-
----
-
-#### ⚡ Tech Stack
+#### Tech Stack
 
 <div align="center">
 
@@ -36,15 +32,15 @@ I build weird worlds, break game engines, and automate the boring stuff. Whether
 </div>
 ---
 
-#### 🚀 Featured Repos
+####  Featured Repos
 
 | Project | The Gist | The Tech |
 | :--- | :--- | :--- |
-| **[Battleship Game](https://github.com/Carlbytes/BattleShip_cpp_Game)** | 🚢 Multiplayer battleship with LAN/WAN support. | `C++` `SFML` `CMake` |
-| **[Math Game Web App](https://github.com/Carlbytes/SoftwareDevelopment3GP)** | 🧮 Full-stack web app with C++ backend & CI/CD pipeline. | `C++` `Crow` `Docker` `DB` |
-| **[Laser Game](https://github.com/SamMcAulay/laserGame)** | 🔦 Procedural horror puzzle game. | `Unity` `C#` `ShaderLab` |
-| **[Space VR Explorer](https://github.com/Carlbytes/Hackahton2025)** | 🪐 VR tour of the solar system using NASA data. | `VR` `NASA API` |
-| **[Games Fleadh](https://github.com/SamsonA00321296/Games-fleadh)** | ⚔️ Split-screen combat with orbital gravity physics. | `Unity` `HLSL` |
-| **[Pangbot](https://github.com/SamMcAulay/Pangbot)** | 🤖 Twitch bot that grabs build codes from chat. | `Python` |
+| **[Battleship Game](https://github.com/Carlbytes/BattleShip_cpp_Game)** |  Multiplayer battleship with LAN/WAN support. | `C++` `SFML` `CMake` |
+| **[Math Game Web App](https://github.com/Carlbytes/SoftwareDevelopment3GP)** |  Full-stack web app with C++ backend & CI/CD pipeline. | `C++` `Crow` `Docker` `DB` |
+| **[Laser Game](https://github.com/SamMcAulay/laserGame)** |  Procedural horror puzzle game. | `Unity` `C#` `ShaderLab` |
+| **[Space VR Explorer](https://github.com/Carlbytes/Hackahton2025)** |  VR tour of the solar system using NASA data. | `VR` `NASA API` |
+| **[Games Fleadh](https://github.com/SamsonA00321296/Games-fleadh)** |  Split-screen combat with orbital gravity physics. | `Unity` `HLSL` |
+| **[Pangbot](https://github.com/SamMcAulay/Pangbot)** |  Twitch bot that grabs build codes from chat. | `Python` |
 
 ---
