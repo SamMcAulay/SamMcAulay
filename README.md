@@ -1,6 +1,6 @@
 ### Hello, I'm Sam! 
 
-** Aspiring Virtual Reality Developer, and game dev hobbyist. **      
+**Aspiring Virtual Reality Developer, and game dev hobbyist.**      
 
 #### Tech Stack
 
