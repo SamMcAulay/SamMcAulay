@@ -4,7 +4,7 @@
 
 Currently working on my own wayland compositor, Looking to explore more with the linux kernel
 
-#### Tech Stack
+## Tech Stack
 
 <div align="center">
 
