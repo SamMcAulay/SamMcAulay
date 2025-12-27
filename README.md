@@ -55,3 +55,11 @@ Currently working on my own wayland compositor, Looking to explore more with the
 | **[I3 Animated](https://github.com/SamMcAulay/i3_PywalEXP_Dotfiles)** | i3wm | `pywal` `picom experimental` |
 
 ---
+
+## NVIM Configs
+
+| Name | Desc | Note worthy plugins |
+| :--- | :--- | :--- |
+| **[Main](https://github.com/SamMcAulay/NVIM-Main-conf/tree/main)** | Main working config, often updated | `lazy` `mason` `Treesitter` `telescope` `which-key` `bufferline` |
+
+---
