@@ -1,6 +1,8 @@
-### Hello, I'm Sam! 
+# Hello, I'm Sam! 
 
-**Aspiring Virtual Reality Developer, and game dev hobbyist.**      
+**Aspiring Virtual Reality Developer, and game dev hobbyist.**
+
+Currently working on my own wayland compositor, Looking to explore more with the linux kernel
 
 #### Tech Stack
 
@@ -30,9 +32,10 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="55" alt="SQLite" />
   
 </div>
+
 ---
 
-####  Featured Repos
+##  Featured Repos
 
 | Project | The Gist | The Tech |
 | :--- | :--- | :--- |
@@ -42,5 +45,13 @@
 | **[Space VR Explorer](https://github.com/Carlbytes/Hackahton2025)** |  VR tour of the solar system using NASA data. | `VR` `NASA API` |
 | **[Games Fleadh](https://github.com/SamsonA00321296/Games-fleadh)** |  Split-screen combat with orbital gravity physics. | `Unity` `HLSL` |
 | **[Pangbot](https://github.com/SamMcAulay/Pangbot)** |  Twitch bot that grabs build codes from chat. | `Python` |
+
+---
+
+## Managed Dotfiles
+
+| Dotfiles | DE/WM | The Tech |
+| :--- | :--- | :--- |
+| **[I3 Animated](https://github.com/SamMcAulay/i3_PywalEXP_Dotfiles)** | i3wm | `pywal` `picom experimental` |
 
 ---
